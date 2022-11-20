@@ -4,7 +4,7 @@ Hi 👋 My name is Bed Prakash Maurya
 Full stack Javascript Developer
 -------------------------------
 
-*   🌍  I'm based in India varanasi
+*   🌍  I'm based in varanasi, india
 *   ✉️  You can contact me at [realvedprakash@gmail.com](mailto:realvedprakash@gmail.com)
 *   🧠  I'm learning Angular
 <a href="https://www.twitter.com/vedprakash910" target="_blank" rel="noreferrer"><img
