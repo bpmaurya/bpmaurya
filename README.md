@@ -1,4 +1,4 @@
-Hi 👋 My name is Bed Prakash Maurya
+Hi 👋 My name is Ved Prakash Maurya
 ===================================
 
 Full stack Javascript Developer
