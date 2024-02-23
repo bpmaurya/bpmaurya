@@ -1,4 +1,4 @@
-Hi 👋 My name is Ved Prakash Maurya
+Hi 👋 
 ===================================
 
 Full stack Javascript Developer
@@ -6,7 +6,6 @@ Full stack Javascript Developer
 
 *   🌍  I'm based in varanasi, india
 *   ✉️  You can contact me at [realvedprakash@gmail.com](mailto:realvedprakash@gmail.com)
-*   🧠  I'm learning Angular
 
 ### Skills 
 <p align="left">
