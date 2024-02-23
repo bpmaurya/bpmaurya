@@ -1,7 +1,7 @@
 Hi 👋 
 ===================================
 
-Full stack Javascript Developer
+I am Full stack Javascript Developer
 -------------------------------
 
 *   🌍  I'm based in varanasi, india
